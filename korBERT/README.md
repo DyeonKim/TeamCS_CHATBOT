@@ -1,4 +1,7 @@
-# ENTRI에서 제공하는 korBERT 모델을 사용하였습니다.
+# korBERT 설명서
+
+ENTRI에서 제공하는 korBERT 모델을 사용하였습니다.
+
 1. http://aiopen.etri.re.kr/ 에 들어가서 키를 발급받고 korBERT 파일 다운로드(규정상 파일을 올리지 못했습니다.)
 2. korBERT에서 제공하는 파일은 
    형태소분석 결과 기반 BERT 학습 모델(pytorch, tensorflow)/어절 기반 BERT 학습 모델 (형태소분석 미수행)(pytorch, tensorflow)
